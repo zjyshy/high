@@ -31,10 +31,10 @@ Highcharts.stockChart('container', {
 		selected: 2
 	},
 	title: {
-		text: '测试哈'
+		text: '测试'
 	},
 	subtitle: {
-		text: 'With SMA and Volume by Price technical indicators'
+		text: 'test'
 	},
 	yAxis: [{
 		startOnTick: false,
